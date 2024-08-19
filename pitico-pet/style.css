@@ -1,0 +1,36 @@
+:root
+{
+    --cor1: #292f36;
+    --cor2: #9bc4cb;
+    --cor3: rgb(207, 226, 235);
+    --cor4:#e2fadb;
+    --corbranco:#ffffff;
+
+  --fonte-padrao: sans-serif;
+
+}
+
+
+body {
+
+    background-color: var(--cor3);
+}
+
+div#secao1 > p{
+ color: var(--corbranco);
+}
+.secao {
+
+    width: 100%;
+    height: 100%;
+    border: 2px solid var(--cor1); 
+    margin: 10px;
+    display: inline-block;
+
+}
+div#secao1 {
+
+    background-color: #292f36;
+
+
+}
