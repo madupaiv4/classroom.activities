@@ -1,0 +1,7 @@
+C:\Users\eduar\Desktop\IF Tecnico\Pendrive tecnico IF\homeofficersrs\C#\nao sei ainda\nao sei ainda\obj\Debug\nao sei ainda.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\IF Tecnico\Pendrive tecnico IF\homeofficersrs\C#\nao sei ainda\nao sei ainda\obj\Debug\nao sei ainda.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\IF Tecnico\Pendrive tecnico IF\homeofficersrs\C#\nao sei ainda\nao sei ainda\bin\Debug\nao sei ainda.exe.config
+C:\Users\eduar\Desktop\IF Tecnico\Pendrive tecnico IF\homeofficersrs\C#\nao sei ainda\nao sei ainda\bin\Debug\nao sei ainda.exe
+C:\Users\eduar\Desktop\IF Tecnico\Pendrive tecnico IF\homeofficersrs\C#\nao sei ainda\nao sei ainda\bin\Debug\nao sei ainda.pdb
+C:\Users\eduar\Desktop\IF Tecnico\Pendrive tecnico IF\homeofficersrs\C#\nao sei ainda\nao sei ainda\obj\Debug\nao sei ainda.exe
+C:\Users\eduar\Desktop\IF Tecnico\Pendrive tecnico IF\homeofficersrs\C#\nao sei ainda\nao sei ainda\obj\Debug\nao sei ainda.pdb
